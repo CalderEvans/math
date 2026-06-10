@@ -2,7 +2,7 @@ name: 'Calder Evans'
 description: 'So much potential'
 tagline: 'yada yada'
 url: 'http://calderevans.github.io'
-baseurl: '/sample-website'
+baseurl: '/math'
 paginate: 10
 
 markdown: kramdown
