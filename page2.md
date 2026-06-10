@@ -1,5 +1,5 @@
 ---
-title: Page Two
+title: Teaching
 author: Dana Ernst
 layout: default
 ---
