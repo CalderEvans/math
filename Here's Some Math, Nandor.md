@@ -13,7 +13,8 @@ Edit this page to include either the Fundamental Theorem of Calculus, the First 
 If $\phi: G \rightarrow H$ is a homomorphism of groups, then $\ker(\phi) \unlhd G $ and $\frac{G}{\ker(\phi)} \cong \phi(G)$ 
 
 ## Calc 2 Preperation: 
-<b>1.</b> Calculate the area between the curves <p style="color: blue;"> $x=y^2+1$ </p> and <p style="color: red;">$x=9-y^2$ <p>.
+<b>1.</b> Calculate the area between the curves <p style="color: blue;"> $x=y^2+1$ </p> and <p style="color: red;">$x=9-y^2$ <p>. 
+<br>
 <img src="{{ site.baseurl }}/images/AreaBetweenCurves.png"/>
 <body>
   <div style="text-align: center;">
