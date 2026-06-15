@@ -6,7 +6,10 @@ layout: default
 
  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
-## Calc 2 Preperation: 
+# Calc 2 Preperation: 
+<br>
+<br>
+### Area between 2 Curves
 <b>1.</b> Calculate the area between the curves <span style="color: blue;"> $x=y^2+1$ </span> and <span style="color: red;">$x=9-y^2$ </span>. 
 <br>
 <div style="text-align: center;">
@@ -30,7 +33,7 @@ We now know that the bounds for our integral will be $-2$ and $2$. Next, we have
     \[ \int_{-2}^{2} \left(9 - y^2 - (y^2 + 1)\right) dy \]
   </div>
 
-  <div style="padding-left: 110px;">
+  <div style="padding-left: 90px;">
     \[
     \begin{aligned}
       &= \int_{-2}^{2} -2y^2 + 8 \; dy \\
