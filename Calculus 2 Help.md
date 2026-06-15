@@ -13,6 +13,18 @@ layout: default
 <img src="{{ site.baseurl }}/images/AreaBetweenCurves.png" style="width: 30%;" />
 </div>
 <body>
+To find the area between the curves we need to first find their intersection points by setting the equations equal to each other.
+</body>
+<div style="text-align: center;">
+  \[
+    <span style="color: blue;">y^2+1 </span> = <span style="color: blue;"> 9-y^2 </span> <br>
+    2y^2=8$ <br>
+    y^2=4$ <br> 
+    y=\pm 2
+  \]
+</div>
+
+<body>
   <div style="text-align: center;">
     \[ \int_{-2}^{2} \left(9 - y^2 - (y^2 + 1)\right) dy \]
   </div>
