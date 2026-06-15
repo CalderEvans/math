@@ -17,7 +17,7 @@ If $\phi: G \rightarrow H$ is a homomorphism of groups, then $\ker(\phi) \unlhd 
 <img src="{{ site.baseurl }}/images/AreaBetweenCurves.jpg"/>
 <body>
   <div style="text-align: center;">
-    \[ \int_{-2}^{2} \left(9 - y^2 - (y^2 + 1)\right) dy ])
+    \[ \int_{-2}^{2} \left(9 - y^2 - (y^2 + 1)\right) dy \]
   </div>
 
   <div style="padding-left: 110px;">
