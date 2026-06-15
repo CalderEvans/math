@@ -9,7 +9,7 @@ layout: default
 <br>
 <p style="font-size: 30px; text-align: center;"> Calculus 2 </p>
 <br>
-### Area between 2 Curves
+### Area Between Curves
 <b>1.</b> Calculate the area between the curves <span style="color: blue;"> $x=y^2+1$ </span> and <span style="color: red;">$x=9-y^2$ </span>. 
 <br>
 <div style="text-align: center;">
