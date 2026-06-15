@@ -6,16 +6,10 @@ layout: default
 
  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
-## Playground
-
-Edit this page to include either the Fundamental Theorem of Calculus, the First Isomorphism Theorem for Groups, or the Central Limit Theorem.  Use correct mathematical typesetting.
-
-If $\phi: G \rightarrow H$ is a homomorphism of groups, then $\ker(\phi) \unlhd G $ and $\frac{G}{\ker(\phi)} \cong \phi(G)$ 
-
 ## Calc 2 Preperation: 
 <b>1.</b> Calculate the area between the curves <span style="color: blue;"> $x=y^2+1$ </span> and <span style="color: red;">$x=9-y^2$ </span>. 
 <br>
-<img src="{{ site.baseurl }}/images/AreaBetweenCurves.png"/>
+<img src="{{ site.baseurl }}/images/AreaBetweenCurves.png" style="width: 30%;" />
 <body>
   <div style="text-align: center;">
     \[ \int_{-2}^{2} \left(9 - y^2 - (y^2 + 1)\right) dy \]
