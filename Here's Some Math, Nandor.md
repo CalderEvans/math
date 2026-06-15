@@ -4,6 +4,7 @@ author: Dana Ernst
 layout: default
 ---
 
+ <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
 ## Playground
 
@@ -15,7 +16,7 @@ If $\phi: G \rightarrow H$ is a homomorphism of groups, then $\ker(\phi) \unlhd 
 <body>
     \[
     \begin{aligned}
-        &={\int_{-2}^{2}} \hspace{2mm} 9-y^2 - (y^2+1) \hspace{2mm} dy <br>
+        &{\int_{-2}^{2}} \hspace{2mm} 9-y^2 - (y^2+1) \hspace{2mm} dy <br>
         &={\int_{-2}^{2}} \hspace{2mm} 9-y^2 - y^2-1 \hspace{2mm} dy <br>
         &={\int_{-2}^{2}} \hspace{2mm} -2y^2+8 \hspace{2mm} dy <br>
         &=(-\frac{2}{3}y^3+8y)|_{-2}^{2} <br>
@@ -30,3 +31,31 @@ If $\phi: G \rightarrow H$ is a homomorphism of groups, then $\ker(\phi) \unlhd 
     \end{aligned}
     \]
 <body>
+
+<br>
+<br>
+
+<br>
+
+<br>
+
+
+
+<body>
+  <div style="text-align: center;">
+    \( \int_{-2}^{2} \left(9 - y^2 - (y^2 + 1)\right) dy \)
+  </div>
+
+  <div style="padding-left: 120px;">
+    \[
+    \begin{aligned}
+      &= \int_{-2}^{2} -2y^2 + 8 \; dy \\
+      &= \left(-\tfrac{2}{3}y^3 + 8y\right)\bigg|_{-2}^{2} \\
+      &= \left(-\tfrac{16}{3} + 16\right) - \left(\tfrac{16}{3} - 16\right) \\
+      &= -\tfrac{32}{3} + 32 \\
+      &= 2\left(\tfrac{32}{3}\right) \\
+      &= \boxed{\dfrac{64}{3}}
+    \end{aligned}
+    \]
+  </div>
+</body>
