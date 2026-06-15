@@ -32,7 +32,7 @@ We now know that the bounds for our integral will be $-2$ and $2$. Next, we have
     \[ \int_{-2}^{2} \left(9 - y^2 - (y^2 + 1)\right) dy \]
   </div>
 
-  <div style="padding-left: 60px;">
+  <div style="padding-left: 30px;">
     \[
     \begin{aligned}
       &= \int_{-2}^{2} -2y^2 + 8 \; dy \\
