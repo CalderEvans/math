@@ -6,7 +6,7 @@ layout: default
 
  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
-# Calc 2 Preperation: 
+<div style="text-align: center;"> # Calc 2 Help: </div>
 <br>
 ### Area between 2 Curves
 <b>1.</b> Calculate the area between the curves <span style="color: blue;"> $x=y^2+1$ </span> and <span style="color: red;">$x=9-y^2$ </span>. 
