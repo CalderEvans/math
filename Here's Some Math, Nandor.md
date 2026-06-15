@@ -11,6 +11,7 @@ Edit this page to include either the Fundamental Theorem of Calculus, the First 
 
 If $\phi: G \rightarrow H$ is a homomorphism of groups, then $\ker(\phi) \unlhd G $ and $\frac{G}{\ker(\phi)} \cong \phi(G)$ 
 
+## Calc 2 Preperation: 
 ${\int_{-2}^{2}} \hspace{2mm} 9-y^2 - (y^2+1) \hspace{2mm} dy$ \vspace{1mm} \\
 
 $\hspace{58.5mm}={\int_{-2}^{2}} \hspace{2mm} 9-y^2 - y^2-1 \hspace{2mm} dy$ \vspace{1mm} \\
