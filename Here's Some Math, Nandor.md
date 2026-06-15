@@ -18,7 +18,7 @@ $\hspace{58.5mm}={\int_{-2}^{2}} \hspace{2mm} 9-y^2 - y^2-1 \hspace{2mm} dy$ \vs
 
 $\hspace{53mm}={\int_{-2}^{2}} \hspace{2mm} -2y^2+8 \hspace{2mm} dy$ \\
 
-$\hspace{53mm}=(-\frac{2}{3}y^3+8y)\bigg|_{-2}^{2}$ \\
+$\hspace{53mm}=(-\frac{2}{3}y^3+8y)|_{-2}^{2}$ \\
 
 $\hspace{53mm}=(-\frac{2}{3}(2)^3+8(2))) - (-\frac{2}{3}(-2)^3+8(-2))$ \\
 
