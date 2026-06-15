@@ -17,9 +17,9 @@ To find the area between the curves we need to first find their intersection poi
 </body>
 <div style="text-align: center;">
   \[
-    <span style="color: blue;">y^2+1 </span> = <span style="color: blue;"> 9-y^2 </span> <br>
-    2y^2=8$ <br>
-    y^2=4$ <br> 
+    <span style="color: blue;"> y^2+1 </span> = <span style="color: blue;"> 9-y^2 </span> <br>
+    2y^2=8 <br>
+    y^2=4 <br> 
     y=\pm 2
   \]
 </div>
