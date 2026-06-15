@@ -1,5 +1,5 @@
 ---
-title: Here's Some Math Nandor
+title: Calculus 2 Help
 author: Dana Ernst
 layout: default
 ---
