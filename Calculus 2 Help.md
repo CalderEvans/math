@@ -8,7 +8,6 @@ layout: default
 
 # Calc 2 Preperation: 
 <br>
-<br>
 ### Area between 2 Curves
 <b>1.</b> Calculate the area between the curves <span style="color: blue;"> $x=y^2+1$ </span> and <span style="color: red;">$x=9-y^2$ </span>. 
 <br>
