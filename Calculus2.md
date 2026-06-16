@@ -85,7 +85,7 @@ From $0$ to $2$, <span style="color: blue"> $y=4x$ </span> is on top of <span st
   </div>
 
 <details>
-  <summary>Show Answer</summary>
+  <summary>Show Solution</summary>
   <p>The area is 64/3.</p>
 </details>
 
