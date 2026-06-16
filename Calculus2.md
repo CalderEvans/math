@@ -7,9 +7,9 @@ layout: default
  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
 <br>
-<p style="font-size: 30px; text-align: center;"> Calculus 2 </p>
+<p style="font-size: 40px; text-align: center;"> Calculus 2 </p>
 <br>
-### Area Between Curves
+<p style="font-size: 30px; text-align: left"> Area Between Curves </p>
 <b>1.</b> Calculate the area between the curves <span style="color: blue;"> $x=y^2+1$ </span> and <span style="color: red;">$x=9-y^2$ </span>. 
 <br>
 <div style="text-align: center;">
