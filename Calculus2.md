@@ -75,9 +75,9 @@ From $0$ to $2$, <span style="color: blue"> $y=4x$ </span> is on top of <span st
     \begin{aligned} 
       &= (2x^2-\frac{2}{3}x^3)\bigg|_{0}^{2}  + (\frac{2}{3}x^3 - 2x^2)\bigg|_{2}^{3} \\
       &= \Bigl[ (2(2)^2-\frac{2}{3}(2)^3) - (2(0)^2-\frac{2}{3}(0)^3) \Bigr] +  \Bigl[ (\frac{2}{3}(3)^3 - 2(3)^2)- (\frac{2}{3}(2)^3 - 2(2)^2) \Bigr] \\
-      &= (8-\frac{16}{3}) + ((\frac{54}{3} - 18) - (\frac{16}{3} - 8)) \\
-      &= (\frac{24}{3}-\frac{16}{3}) + ((18 - 18) - (\frac{16}{3} - \frac{24}{3})) \\
-      &= \frac{8}{3} + (0-(-\frac{8}{3}) \\
+      &= \Bigl[ 8-\frac{16}{3}\Bigr] + \Bigl[ (\frac{54}{3} - 18) - (\frac{16}{3} - 8)\Bigr]\\
+      &= \Bigl[ \frac{24}{3}-\frac{16}{3}\Bigr] + \Bigl[(18 - 18) - (\frac{16}{3} - \frac{24}{3}) \Bigr] \\
+      &= \frac{8}{3} + \bigl[0-(-\frac{8}{3})\bigr] \\
       &= \frac{8}{3} + \frac{8}{3} \\
       &= \boxed{\frac{16}{3}} \\
     \end{aligned}
