@@ -82,13 +82,3 @@ We now know that the bounds for our integral will be $-2$ and $2$. Next, we have
       </div>
     </p>
 </details>
-
-
-<details>
-  <summary>Show Solution</summary>
-  <p>The area is 64/3.</p>
-</details>
-
-
-
-</body>
