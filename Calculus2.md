@@ -52,5 +52,5 @@ We now know that the bounds for our integral will be $-2$ and $2$. Next, we have
 
 <br>
 <div style="text-align: center;">
-<img src="{{ site.baseurl }}/images/AreaBetweenCurves2.png" style="width: 30%;" />
+<img src="{{ site.baseurl }}/images/AreaBetweenCurves2.png" style="width: 40%;" />
 </div>
