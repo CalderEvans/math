@@ -68,6 +68,8 @@ From $0$ to $2$, <span style="color: blue"> $y=4x$ </span> is on top of <span st
 
 <div style="text-align: center;"> 
     \[ \int_{0}^{2}4x-2x^2 \hspace{2mm} dx + \int_{2}^{3}2x^2-4x \hspace{2mm} dx \]
+</div>
+
   <div style="padding-left: 150px;">
     \[
     \begin{aligned} 
@@ -81,7 +83,7 @@ From $0$ to $2$, <span style="color: blue"> $y=4x$ </span> is on top of <span st
     \end{aligned}
     \]
   </div>
-</div>
+
 
 
 
