@@ -57,6 +57,7 @@ layout: default
 <details>
   <summary> Show Solution </summary>
   <p>
+    <br>
     Below we can see our curves graphed, you may or may not be given an image for your problem so you should practice knowing what they look like without the image.
     <div style="text-align: center;">
     <img src="{{ site.baseurl }}/images/AreaBetweenCurves2.png" style="width: 35%;" />
