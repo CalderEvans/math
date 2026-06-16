@@ -60,3 +60,9 @@ pre {
 li {
   text-align: justify;
 } */
+
+details summary {
+  cursor: pointer;
+  color: blue;
+  font-weight: bold;
+}
