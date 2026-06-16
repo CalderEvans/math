@@ -61,6 +61,12 @@ li {
   text-align: justify;
 } */
 
+details {
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 5px;
+}
+
 details summary {
   cursor: pointer;
   color: blue;
