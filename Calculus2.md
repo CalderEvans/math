@@ -68,21 +68,20 @@ From $0$ to $2$, <span style="color: blue"> $y=4x$ </span> is on top of <span st
 
 <div style="text-align: center;"> 
     \[ \int_{0}^{2}4x-2x^2 dx + $\int_{2}^{3}2x^2-4x dx \]
+  <div style="padding-left: 20px;">
+    \[
+    \begin{aligned} 
+      &= (2x^2-\frac{2}{3}x^3)\bigg|_{0}^{2}  + (\frac{2}{3}x^3 - 2x^2)\bigg|_{2}^{3} \\
+      &= ((2(2)^2-\frac{2}{3}(2)^3) - (2(0)^2-\frac{2}{3}(0)^3))  +  ((\frac{2}{3}(3)^3 - 2(3)^2) - (\frac{2}{3}(2)^3 - 2(2)^2)) \\
+      &= ((8-\frac{16}{3}) + ((\frac{54}{3} - 18) - (\frac{16}{3} - 8)) \\
+      &= ((\frac{24}{3}-\frac{16}{3}) + ((18 - 18) - (\frac{16}{3} - \frac{24}{3})) \\
+      &= \frac{8}{3} + (0-(-\frac{8}{3}) \\
+      &= \frac{8}{3} + \frac{8}{3} \\
+      &= \boxed{\frac{16}{3}} \\
+    \end{aligned}
+    \]
+  </div>
 </div>
-<div style="padding-left: 80px;">
-  \[
-   \begin{aligned} 
-    &= (2x^2-\frac{2}{3}x^3)\bigg|_{0}^{2}  + (\frac{2}{3}x^3 - 2x^2)\bigg|_{2}^{3} \\
-    &= ((2(2)^2-\frac{2}{3}(2)^3) - (2(0)^2-\frac{2}{3}(0)^3))  +  ((\frac{2}{3}(3)^3 - 2(3)^2) - (\frac{2}{3}(2)^3 - 2(2)^2)) \\
-    &= ((8-\frac{16}{3}) + ((\frac{54}{3} - 18) - (\frac{16}{3} - 8)) \\
-    &= ((\frac{24}{3}-\frac{16}{3}) + ((18 - 18) - (\frac{16}{3} - \frac{24}{3})) \\
-    &= \frac{8}{3} + (0-(-\frac{8}{3}) \\
-    &= \frac{8}{3} + \frac{8}{3} \\
-    &= \boxed{\frac{16}{3}} \\
-   \end{aligned}
-  \]
-</div>
-
 
 
 
