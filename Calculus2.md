@@ -45,12 +45,13 @@ layout: default
         \]
       </div>
     </body>
-  <p>
+  </p>
 </details>
 
 <br>
 <br>
 <br>
+
 <b> 2. </b> Calculate the area between the curves <span style="color: blue" > $y=4x$ </span>, <span style="color: red"> $y=2x^2$ </span>, and <span style="color: green"> $x=3$</span>. 
 <details>
   <summary> Show Solution </summary>
