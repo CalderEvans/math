@@ -47,9 +47,10 @@ We now know that the bounds for our integral will be $-2$ and $2$. Next, we have
 </body>
 
 <br>
+<br>
+<br>
 <b> 2. </b> Calculate the area between the curves <span style="color: blue" > $y=4x$ </span>, <span style="color: red"> $y=2x^2$ </span>, and <span style="color: green"> $x=3$</span>. 
 
-<br>
 <div style="text-align: center;">
 <img src="{{ site.baseurl }}/images/AreaBetweenCurves2.png" style="width: 35%;" />
 </div>
