@@ -4,7 +4,7 @@ author: Calder Evans
 layout: default
 ---
 <div style="margin-top: 50px;"></div>
-<p style="font-size: 24px">Below is a compilation of presentations that I have given during my Graduate and Undergraduate career</p>
+<p style="font-size: 24px; text-align: center">Below is a compilation of presentations that I have given during my Graduate and Undergraduate career</p>
 
 <div style="margin-top: 50px;"></div>
 <p style="font-size: 30px; text-align: center;">2025</p>
