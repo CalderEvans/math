@@ -13,7 +13,7 @@ This website contains the talks and presentations that I have given as well as s
 This website is currently under construction.
 <br> <br>
 
-To contact me, please email me at [email](mailto:calder.evans@nau.edu).
+To contact me, please send me an [email](mailto:calder.evans@nau.edu).
 
 
 
