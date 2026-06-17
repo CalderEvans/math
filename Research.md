@@ -16,6 +16,6 @@ This research culminated in an oral and poster presentation at the 2025 NAU Unde
 <details>
   <summary> View Poster </summary>
   <p>
-    <iframe src="{{ site.baseurl }}/files/QuantumColoringPosterUGrads.pdf" width="100%" height="600px" style="border: none;"> </iframe>
+    <iframe src="{{ site.baseurl }}/files/QuantumColoringPosterUGrads.pdf" width="100%" height="600px" style="border: inset;"> </iframe>
   </p>
 </details>
