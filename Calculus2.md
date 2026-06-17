@@ -9,7 +9,7 @@ layout: default
 <br>
 <p style="font-size: 50px; text-align: center;  font-weight: bold"> Calculus 2 </p>
 <br>
-During my Undergraduate Studies I served as the lead Peer Math Assistant for NAU's [Math Achievement Program](https://in.nau.edu/academic-success-centers/math-achievement-program), below is a list a resources and practice problems that I created for my students at the time. 
+During my Undergraduate Studies I served as the lead Peer Math Assistant for NAU's [Math Achievement Program](https://in.nau.edu/academic-success-centers/math-achievement-program). Below is a list a resources and practice problems that I created for my students at the time. 
 <p style="font-size: 30px; text-align: left; font-weight: bold"> Area Between Curves </p>
 <b>1.</b> Calculate the area between the curves <span style="color: blue;"> $x=y^2+1$ </span> and <span style="color: red;">$x=9-y^2$</span>. 
 <details>
