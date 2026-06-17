@@ -4,8 +4,8 @@ author: Calder Evans
 layout: default
 ---
 <br>
-<p style="font-size: 20px; text-align: center;  font-weight: bold"> Fall 2026 </p> <br>
-TBA
+<p style="font-size: 20px; text-align: center;  font-weight: bold"> Fall 2026 </p> 
+TBA <br>
 <p style="font-size: 20px; text-align: center;  font-weight: bold"> Summer 2026 </p>
 Upward Bound Math & Science: College Math Course <br>
 <p style="font-size: 20px; text-align: center;  font-weight: bold"> Spring 2026 </p> 
