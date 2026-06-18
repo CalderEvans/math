@@ -99,7 +99,7 @@ body {
   position: absolute;
   bottom: 125%;
   left: 50%;
-  transform: none;
+  transform: translateX(-50%);
   background-color: #333 !important;
   color: white !important;
   padding: 6px 10px;
