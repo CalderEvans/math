@@ -104,7 +104,8 @@ body {
   color: white !important;
   padding: 6px 10px;
   border-radius: 4px;
-  white-space: nowrap;
+  white-space: normal;
+  width: 300px;
   font-size: 14px;
   z-index: 999;
 }
