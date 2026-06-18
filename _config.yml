@@ -6,6 +6,9 @@ baseurl: '/math'
 paginate: 10
 
 markdown: kramdown
+kramdown:
+  parse_block_html: true
+  parse_inline_html: true
 highlighter: rouge
 
 # Permalinks
