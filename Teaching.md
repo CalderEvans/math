@@ -20,10 +20,7 @@ Upward Bound Math & Science: College Math Course <br>
 Upward Bound Math & Science: College Math Course <br>
 
 <p style="font-size: 20px; text-align: left;  font-weight: bold"> Summer 2024 </p>
-Upward Bound Math & Science: College Math Course <br>
-As an instructor for UBMS I taught a group of High School Juniors a summer course on various math topics with the goal of getting the students interested in studying mathematics in college.
-
-<span class="mytooltip">Hover over me<span class="tooltip-text">This is the tooltip content</span></span>
+Upward Bound Math & Science: <span class="mytooltip"> College Math Course <span class="tooltip-text">As an instructor for UBMS I taught a group of High School Juniors a summer course on various math topics with the goal of getting the students interested in studying mathematics in college.</span></span>
 
 
 Test Text
