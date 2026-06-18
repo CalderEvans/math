@@ -98,7 +98,7 @@ body {
   visibility: hidden;
   position: absolute;
   bottom: 125%;
-  left: 50%;
+  left: 0;
   transform: translateX(-50%);
   background-color: #333 !important;
   color: white !important;
