@@ -86,14 +86,7 @@ body {
   font-size: 18px;
 }
 
-.tooltip {
-  position: relative;
-  cursor: pointer;
-  border-bottom: 1px dotted black;
-  display: inline-block;
-}
-
-.tooltip {
+.mytooltip {
   position: relative;
   cursor: pointer;
   border-bottom: 1px dotted black;
@@ -101,7 +94,7 @@ body {
   color: black;
 }
 
-.tooltip .tooltip-text {
+.mytooltip .tooltip-text {
   visibility: hidden;
   position: absolute;
   bottom: 125%;
@@ -116,6 +109,6 @@ body {
   z-index: 999;
 }
 
-.tooltip:hover .tooltip-text {
+.mytooltip:hover .tooltip-text {
   visibility: visible !important;
 }
