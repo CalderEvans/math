@@ -14,6 +14,12 @@ layout: default
 
 For my first Graduate Analysis Course, Complex Analysis, I prepared and gave a [presentation]({{ site.baseurl }}/files/ComplexFinalPresentation.pdf) on Meromorphic Functions with Joshua Martey. 
 <div style="margin-top: 30px;"></div>
+<details>
+  <summary> View Presentation </summary>
+  <p>
+    <iframe src="{{ site.baseurl }}/files/ComplexFinalPresentation.pdf" width="100%" height="600px" style="border: inset;"> </iframe>
+  </p>
+</details>
 
 
 <b style="font-size: 16px;">April 30, 2025:</b>
