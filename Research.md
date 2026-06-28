@@ -6,7 +6,7 @@ layout: default
 <br>
 <p style="font-size: 25px; text-align: center;  font-weight: bold"> Master's Thesis </p>
 <p style="font-size: 20px; text-align: center"> Fall 2026 - Spring 2027</p>
-To complete my Master's degree at NAU I elected to write and defend a Thesis. This will be done with my thesis advisor, Associate Professor Michele Torielli. 
+To complete a Master's degree at NAU I elected to write and defend a Thesis. This will be done with my thesis advisor, Associate Professor Michele Torielli. 
 <br>
 <p style="font-size: 25px; text-align: center;  font-weight: bold"> Undergraduate Research </p>
 <p style="font-size: 20px; text-align: center"> Fall 2024 - Spring 2025</p>
