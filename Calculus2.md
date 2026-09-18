@@ -1,6 +1,6 @@
 ---
 title: Calculus 2 Help
-author: Dana Ernst
+author: Calder Evans
 layout: default
 ---
 
