@@ -41,6 +41,7 @@ I gave an oral [presentation]({{ site.baseurl }}/files/QuantumColoringSlidesUGra
     <iframe src="{{ site.baseurl }}/files/QuantumColoringSlidesUGrads.pdf" width="100%" height="600px" style="border: inset;"> </iframe>
   </p>
 </details>
+<div style="margin-top: 10px;"></div>
 <embed src="{{ site.baseurl }}/files/QuantumColoringPosterUGrads.pdf"
        type="application/pdf"
        width="100%" height="600px">
