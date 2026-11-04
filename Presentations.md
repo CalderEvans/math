@@ -4,7 +4,15 @@ author: Calder Evans
 layout: default
 ---
 <div style="margin-top: 50px;"></div>
-<p style="font-size: 24px; text-align: center">Below is a compilation of presentations that I have given during my Graduate and Undergraduate career</p>
+<p style="font-size: 24px; text-align: center">Below is a series of presentations that I have given during my Graduate and Undergraduate career</p>
+
+<div style="margin-top: 50px;"></div>
+<p style="font-size: 30px; text-align: center;">2027</p>
+<div style="margin-top: 30px;"></div>
+
+<b style="font-size: 20px;">April 20, 2027: </b>
+
+For the completion of my Thesis I will give a public presentation at the NAU Department of Mathematics and Statistics Colloquium. 
 
 <div style="margin-top: 50px;"></div>
 <p style="font-size: 30px; text-align: center;">2025</p>
