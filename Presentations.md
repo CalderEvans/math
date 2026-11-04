@@ -17,9 +17,8 @@ For the completion of my Thesis I will give a public presentation at the NAU Dep
 <div style="margin-top: 50px;"></div>
 <p style="font-size: 30px; text-align: center;">2025</p>
 <div style="margin-top: 30px;"></div>
-
+<!--
 <b style="font-size: 20px;">December 4, 2025:</b>
-
 For my first Graduate Analysis Course, Complex Analysis, I prepared and gave a [presentation]({{ site.baseurl }}/files/ComplexFinalPresentation.pdf) on Meromorphic Functions with Joshua Martey. 
 <details>
   <summary> View Presentation </summary>
@@ -28,9 +27,7 @@ For my first Graduate Analysis Course, Complex Analysis, I prepared and gave a [
   </p>
 </details>
 <div style="margin-top: 30px;"></div>
-
 <b style="font-size: 20px;">April 30, 2025:</b>
-
 As a part of my final Undergraduate Analysis Course, Topology, I prepared and gave a [presentation]({{ site.baseurl }}/files/TopologyFinalProject.pdf) on the Tietze Extension Theorem. 
 <details>
   <summary> View Presentation </summary>
@@ -39,6 +36,7 @@ As a part of my final Undergraduate Analysis Course, Topology, I prepared and ga
   </p>
 </details>
 <div style="margin-top: 30px;"></div>
+-->
 
 <b style="font-size: 20px;" >April 25, 2025:</b>
 
