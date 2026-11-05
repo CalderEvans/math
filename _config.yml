@@ -1,6 +1,6 @@
 name: 'Calder Evans'
-description: 'So much potential'
-tagline: 'yada yada'
+description: 'Mathematics Website'
+tagline: 'Math!'
 url: 'http://calderevans.github.io'
 baseurl: '/math'
 paginate: 10
