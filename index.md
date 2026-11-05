@@ -20,6 +20,6 @@ This website contains the talks and presentations that I have given as well as s
 This website is currently under construction.
 <br> <br>
 
-To contact me, please send me an [email](mailto:calder.evans@nau.edu).
+To contact me, please send me an [email](mailto:cme332@nau.edu).
 
 <!-- This website was created using [GitHub Pages](https://pages.github.com) and [Jekyll](http://jekyllrb.com) together with [Twitter Bootstrap](http://getbootstrap.com). You can find the [source code](https://github.com/dcernst/SampleWebsite) on GitHub.-->-
