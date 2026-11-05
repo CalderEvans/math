@@ -14,7 +14,7 @@ title: My Sample Website
 
 <br> <br>
 
-This website contains the talks and presentations that I have given as well as some resources I have created for my students throughout my teaching and tutoring positions.
+This website contains the talks and presentations that I have given as well as some resources I have created for my students throughout my teaching positions.
 <br> <br>
 
 This website is currently under construction.
