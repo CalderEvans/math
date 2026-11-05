@@ -125,3 +125,16 @@ body {
   background-image: none !important;
   border-color: #67adf5 !important;
 }
+
+/* Footer */
+footer,
+.footer {
+  background-color: #67adf5;
+  color: #ffffff;
+  padding: 20px 0;
+}
+
+footer a,
+.footer a {
+  color: #67adf5;
+}
