@@ -10,7 +10,7 @@ layout: default
 <p style="font-size: 30px; text-align: center;">2027</p>
 <div style="margin-top: 30px;"></div>
 
-<b style="font-size: 20px;">April 20, 2027: </b>
+<b style="font-size: 20px;">April 20, 2027 (Upcoming): </b>
 
 For the completion of my Thesis I will give a public presentation at the NAU Department of Mathematics and Statistics Colloquium. 
 
