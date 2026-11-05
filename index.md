@@ -6,7 +6,7 @@ title: My Sample Website
 <br>
 
 <div class="row">
-  <img src="{{ site.baseurl }}/images/GradPic.jpg" style="width: 30%;" />
+  <img src="{{ site.baseurl }}/images/GradPic.jpg" style="width: 50%;" />
   <div class="text">
     My name is Calder Evans. I am currently a Graduate Student Instructor working on my Mathematics Master's Degree at NAU. I completed a Bachelors Degree in Mathematics at NAU in May of 2025.
   </div>
