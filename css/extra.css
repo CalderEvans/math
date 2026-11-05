@@ -114,3 +114,36 @@ body {
 .mytooltip:hover .tooltip-text {
   visibility: visible !important;
 }
+
+
+/* Header */
+.navbar-default {
+  background-color: #1e3a5f;
+  border-color: #1e3a5f;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-text,
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+}
+
+/* Hover/focus colors for the links */
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-nav > li > a:hover {
+  color: #cfe3f7;
+  background-color: transparent;
+}
+
+/* Footer */
+footer,
+.footer {
+  background-color: #1e3a5f;
+  color: #ffffff;
+  padding: 20px 0;
+}
+
+footer a,
+.footer a {
+  color: #cfe3f7;
+}
