@@ -121,20 +121,20 @@ body {
 .navbar,
 .navbar-default,
 .navbar-inverse {
-  background-color: #67adf5 !important;
+  background-color: #4d7fb3 !important;
   background-image: none !important;
-  border-color: #67adf5 !important;
+  border-color: #4d7fb3 !important;
 }
 
 /* Footer */
 footer,
 .footer {
-  background-color: #67adf5;
+  background-color: #4d7fb3;
   color: #ffffff;
   padding: 20px 0;
 }
 
 footer a,
 .footer a {
-  color: #67adf5;
+  color: #4d7fb3;
 }
