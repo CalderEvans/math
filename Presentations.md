@@ -40,7 +40,7 @@ As a part of my final Undergraduate Analysis Course, Topology, I prepared and ga
 
 <b style="font-size: 20px;" >April 25, 2025:</b>
 
-I gave an oral [presentation]({{ site.baseurl }}/files/QuantumColoringSlidesUGrads.pdf) at NAU's Undergraduate Symposium on my Undergraduate Research with Taylor Smith and Assistant Professor Samuel J. Harris on the Quantum Coloring of Graphs. I also gave a poster presentation on the same topic later during the Symposium. 
+I gave an oral [presentation (PDF)]({{ site.baseurl }}/files/QuantumColoringSlidesUGrads.pdf) at NAU's Undergraduate Symposium on my Undergraduate Research with Taylor Smith and Assistant Professor Samuel J. Harris on the Quantum Coloring of Graphs. I also gave a poster presentation on the same topic later during the Symposium. 
 <details>
   <summary> View Presentation </summary>
   <p>
@@ -55,7 +55,7 @@ I gave an oral [presentation]({{ site.baseurl }}/files/QuantumColoringSlidesUGra
 
 <b style="font-size: 20px;">April 13, 2025:</b>
 
-At the 2025 Southwestern Undergraduate Mathematics Research Conference (SUnMaRC) I gave an oral [presentation]({{ site.baseurl }}/files/GraphingMerminPeres.pdf) on how the Mermin Peres Magic Square game relates to my research on Quantum Coloring. 
+At the 2025 Southwestern Undergraduate Mathematics Research Conference (SUnMaRC) I gave an oral [presentation (PDF)]({{ site.baseurl }}/files/GraphingMerminPeres.pdf) on how the Mermin Peres Magic Square game relates to my research on Quantum Coloring. 
 <details>
   <summary> View Presentation </summary>
   <p>
@@ -66,7 +66,7 @@ At the 2025 Southwestern Undergraduate Mathematics Research Conference (SUnMaRC)
 
 <b style="font-size: 20px;">December 6, 2024:</b>
 
-I gave my NAU Capstone Presentation at the Friday Afternoon Mathematics Undergraduate Symposium (FAMUS), this was a semester long research project that I did with Breelyn Cocke on the [Graceful Labelings of Graphs]({{ site.baseurl }}/files/MAT_486H_Graceful_Labeling_Slides.pdf).
+I gave my NAU Capstone [Presentation (PDF)]({{ site.baseurl }}/files/MAT_486H_Graceful_Labeling_Slides.pdf) at the Friday Afternoon Mathematics Undergraduate Symposium (FAMUS), this was a semester long research project that I did with Breelyn Cocke on the Graceful Labelings of Graphs.
 <details>
   <summary> View Presentation </summary>
   <p>
