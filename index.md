@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Sample Website
+title: Calder Evans | Mathematics
 ---
 <br>
 <br>
@@ -15,9 +15,6 @@ title: My Sample Website
 <br> <br>
 
 This website contains the talks and presentations that I have given as well as some resources I have created for my students throughout my teaching positions.
-<br> <br>
-
-This website is currently under construction.
 <br> <br>
 
 To contact me, please send me an [email](mailto:cme332@nau.edu).
