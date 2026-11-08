@@ -4,87 +4,30 @@ author: Calder Evans
 layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Calder Evans – CV</title>
+
 <style>
-  /* Styles are scoped to .cv so they won't clash with the rest of the site */
-  body { margin: 0; background: #f2f2f2; }
-
-  .cv {
-    box-sizing: border-box;
-    max-width: 8.5in;
-    margin: 24px auto;
-    padding: 0.75in 0.9in;
-    background: #fff;
-    color: #000;
-    font-family: "Times New Roman", Times, "Liberation Serif", serif;
-    font-size: 11pt;
-    line-height: 1.2;
-    box-shadow: 0 1px 6px rgba(0,0,0,.15);
-  }
-  .cv a { color: inherit; text-decoration: none; }
-  .cv a:hover { text-decoration: underline; }
-
-  /* Header */
-  .cv-name { margin: 0; text-align: center; font-size: 17pt; font-weight: bold; }
-  .cv-contact { margin: 0 0 6pt; text-align: center; font-size: 12pt; }
-
-  /* Section headings: bold caps with a rule underneath */
-  .cv h2 {
-    margin: 12pt 0 0;
-    padding: 0;
-    font-size: 12pt;
-    font-weight: bold;
-    border-bottom: 0.75pt solid #000;
-  }
-
-  /* Entry lines: left text + right-aligned text */
-  .row { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
-  .row .right { white-space: nowrap; text-align: right; }
-  .org { font-weight: bold; }
-  .sub { font-style: italic; padding-left: 0.1in; }
-  .entry { margin-bottom: 11pt; }
-  .entry:last-child { margin-bottom: 0; }
-
-  .cv p { margin: 0; }
-  .cv ul { margin: 0; padding-left: 0.5in; list-style: disc; }
-  .cv ul ul { list-style: none; padding-left: 0.4in; }
-  .cv ul ul li::before { content: "-"; display: inline-block; width: 0.3in; margin-left: -0.3in; }
-  .cv li { margin: 0; padding-left: 0.05in; }
-  .cv li::marker { font-size: 11pt; }
-
-  /* Phones */
+  .cv .row { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+  .cv .right { white-space: nowrap; text-align: right; }
+  .cv .org { font-weight: bold; }
+  .cv .sub { font-style: italic; }
+  .cv .entry { margin-bottom: 1.2em; }
+  .cv h2 { margin-top: 1.5em; padding-bottom: 0.15em; border-bottom: 1px solid currentColor; }
+  .cv ul { margin-top: 0.3em; margin-bottom: 0; }
+  .cv .contact { margin-top: 0; }
   @media (max-width: 640px) {
-    .cv { margin: 0; padding: 20px 16px; box-shadow: none; }
-    .row { flex-direction: column; gap: 0; }
-    .row .right { white-space: normal; text-align: left; }
-    .cv-contact { font-size: 11pt; }
-  }
-
-  /* Printing / Save as PDF */
-  @media print {
-    body { background: #fff; }
-    .cv { margin: 0; padding: 0; max-width: none; box-shadow: none; }
-    .entry { break-inside: avoid; }
-    .cv h2 { break-after: avoid; }
-    @page { size: letter; margin: 0.75in 0.9in; }
+    .cv .row { flex-direction: column; gap: 0; }
+    .cv .right { white-space: normal; text-align: left; }
   }
 </style>
-</head>
-<body>
-<main class="cv">
 
-  <h1 class="cv-name">Calder Evans</h1>
-  <p class="cv-contact">Flagstaff, AZ | <a href="mailto:cme332@nau.edu">cme332@nau.edu</a> | (505) 501 – 2563 | <a href="https://calderevans.github.io/math">calderevans.github.io/math</a></p>
+<div class="cv">
 
-  <h2>PROFILE</h2>
+  <p class="contact">Flagstaff, AZ | <a href="mailto:cme332@nau.edu">cme332@nau.edu</a> | (505) 501 – 2563 | <a href="https://calderevans.github.io/math">calderevans.github.io/math</a></p>
+
+  <h2>Profile</h2>
   <p>Adaptable graduate student and instructor with knowledge of classroom management, course design, and curriculum development. Aiming to leverage my abilities to fulfill the position.</p>
 
-  <h2>EDUCATION</h2>
+  <h2>Education</h2>
   <div class="entry">
     <div class="row"><span class="org">Northern Arizona University</span><span class="right org">Flagstaff, AZ</span></div>
     <div class="row sub"><span>Master of Science in Mathematics | GPA 3.65</span><span class="right">August 2025 – Present</span></div>
@@ -114,7 +57,7 @@ layout: default
     </ul>
   </div>
 
-  <h2>WORK EXPERIENCE</h2>
+  <h2>Work Experience</h2>
   <div class="entry">
     <div class="row"><span class="org">Graduate Student Instructor – NAU Department of Mathematics and Statistics</span><span class="right org">Flagstaff, AZ</span></div>
     <div class="row sub"><span>Finite Mathematics – Business Calculus</span><span class="right">August 2026 – Present</span></div>
@@ -186,7 +129,7 @@ layout: default
     </ul>
   </div>
 
-  <h2>RESEARCH EXPERIENCE</h2>
+  <h2>Research Experience</h2>
   <div class="entry">
     <div class="row"><span class="org">Thesis – NAU</span><span class="right org">Flagstaff, AZ</span></div>
     <div class="row sub"><span>Hyperplane Arrangements</span><span class="right">August 2026 – Present</span></div>
@@ -207,11 +150,9 @@ layout: default
     </ul>
   </div>
 
-  <h2>SKILLS &amp; INTERESTS</h2>
+  <h2>Skills &amp; Interests</h2>
   <p><strong>Customer Service:</strong> Critical Thinking, Teamwork, Quick Learner, Adaptable</p>
   <p><strong>Coding Languages:</strong> Python, R, SageMath, LaTeX, HTML, Macaulay2</p>
   <p><strong>Interests:</strong> Puzzles, Teaching, Running, Baseball, Reading</p>
 
-</main>
-</body>
-</html>
+</div>
