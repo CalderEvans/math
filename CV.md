@@ -90,7 +90,7 @@ layout: default
     </ul>
   </div>
   <div class="cv-entry">
-    <div class="cv-row cv-sub cv-indent"><span class="cv-left">Quantitative Reasoning</span><span class="cv-right">August 2025 – May 2025</span></div>
+    <div class="cv-row cv-sub cv-indent"><span class="cv-left">Quantitative Reasoning</span><span class="cv-right">August 2025 – May 2026</span></div>
     <ul>
       <li>Full instructor of record for two sections of MAT 114 with enrollments of 36 students per section per semester.</li>
       <li>Prepared lectures and in class activities, held office hours, and guided students during lab work</li>
