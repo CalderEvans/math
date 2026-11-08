@@ -22,7 +22,7 @@ layout: default
 
 <div class="cv">
 
-  <p class="contact">Flagstaff, AZ | <a href="mailto:cme332@nau.edu">cme332@nau.edu</a> | (505) 501 – 2563 | <a href="https://calderevans.github.io/math">calderevans.github.io/math</a></p>
+  <p class="contact">Flagstaff, AZ | <a href="mailto:cme332@nau.edu">cme332@nau.edu</a> | (505) 501 – 2563 </p>
 
   <h2>Profile</h2>
   <p>Adaptable graduate student and instructor with knowledge of classroom management, course design, and curriculum development. Aiming to leverage my abilities to fulfill the position.</p>
