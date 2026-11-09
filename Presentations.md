@@ -73,3 +73,5 @@ I gave my NAU Capstone [Presentation (PDF)]({{ site.baseurl }}/files/MAT_486H_Gr
     <iframe src="{{ site.baseurl }}/files/MAT_486H_Graceful_Labeling_Slides.pdf" width="100%" height="600px" style="border: inset;"> </iframe>
   </p>
 </details>
+
+<div style="margin-top: 30px;"></div>
