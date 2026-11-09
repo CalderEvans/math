@@ -173,6 +173,6 @@ layout: default
   <h2>Skills &amp; Interests</h2>
   <p><strong>Customer Service:</strong> Critical Thinking, Teamwork, Quick Learner, Adaptable</p>
   <p><strong>Coding Languages:</strong> Python, R, SageMath, LaTeX, HTML, Macaulay2, CoCoA</p>
-  <p><strong>Interests:</strong> Puzzles, Teaching, Running, Baseball, Reading</p>
+  <p><strong>Interests:</strong> Puzzles, Teaching, Running, Baseball, Reading, Cycling</p>
 
 </div>
