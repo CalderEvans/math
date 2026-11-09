@@ -85,7 +85,7 @@ details[open] summary {
 body {
   font-family: Georgia, "Times New Roman", serif;
   font-size: 18px;
-  background-color: #aad2fa;
+  background-color: #b1cae3;
 }
 
 .mytooltip {
@@ -121,20 +121,20 @@ body {
 .navbar,
 .navbar-default,
 .navbar-inverse {
-  background-color: #ffb066 !important;
+  background-color: #fac089 !important;
   background-image: none !important;
-  border-color: #ffb066 !important;
+  border-color: #fac089 !important;
 }
 
 /* Footer */
 footer,
 .footer {
-  background-color: #ffb066;
-  color: #ffb066;
+  background-color: #fac089;
+  color: #fac089;
   padding: 20px 0;
 }
 
 footer a,
 .footer a {
-  color: #ffb066;
+  color: #fac089;
 }
