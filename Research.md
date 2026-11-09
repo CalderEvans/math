@@ -6,7 +6,7 @@ layout: default
 <br>
 <p style="font-size: 25px; text-align: center;  font-weight: bold"> Master's Thesis </p>
 <p style="font-size: 20px; text-align: center"> Fall 2026 - Spring 2027</p>
-For the completion of my master's degree, I elected to write and defend a thesis in May 2027. This will be completed under the supervision of Associate Professor Michele Torielli. We are studying the combinatorics of hyperplane arrangements over arbitrary fields. Specifically, determining in which situation an arrangement and its reduction modulo a prime number have isomorphic lattices via the use of weak Gröbner bases. A paper on this research is going to be published between 2027 and 2028.
+For the completion of my master's degree, I elected to write and defend a thesis in May 2027. This will be completed under the supervision of Associate Professor Michele Torielli. We are studying the combinatorics of hyperplane arrangements over arbitrary fields. Specifically, determining in which situation an arrangement and its reduction modulo a prime number have isomorphic lattices via the use of weak Gröbner bases. A paper on this research is expected to be published between 2027 and 2028.
 <br>
 <p style="font-size: 25px; text-align: center;  font-weight: bold"> Undergraduate Research </p>
 <p style="font-size: 20px; text-align: center"> Fall 2024 - Spring 2025</p>
