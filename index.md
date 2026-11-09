@@ -14,7 +14,7 @@ title: Calder Evans | Mathematics
 
 <br> <br>
 
-This website contains the talks and presentations that I have given as well as some resources I have created for my students throughout my teaching positions.
+This website contains the talks and presentations that I have given as well as resources I have created for my students throughout my teaching positions.
 <br> <br>
 
 To contact me, please send me an [email](mailto:cme332@nau.edu).
