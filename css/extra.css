@@ -126,16 +126,15 @@ body {
   border-color: #fac089 !important;
 }
 
-/* Footer
+/* Footer */
 footer,
 .footer {
-  background-color: #fac089;
-  color: #fac089;
+  background-color: #5d7287;
+  color: #5d7287;
   padding: 20px 0;
 }
 
 footer a,
 .footer a {
-  color: #fac089;
+  color: #5d7287;
 }
-*/
