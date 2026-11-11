@@ -3,16 +3,29 @@ layout: default
 title: Graceful Labeling Game
 permalink: /GraphTheory/
 ---
-
+<div class="game">
 <svg id="graph" viewBox="0 0 400 400" width="400" height="400">
+    <defs>
+        <mask id="edgemask" maskUnits="userSpaceOnUse" x="0" y="0" width="400" height="400">
+            <rect x="0" y="0" width="400" height="400" fill="white"/>
+            <circle id="edgebg-0" cx="258.65" cy="78.25"  r="15" fill="black" visibility="hidden"/>
+            <circle id="edgebg-1" cx="331.75" cy="169.95" r="15" fill="black" visibility="hidden"/>
+            <circle id="edgebg-2" cx="305.65" cy="284.3"  r="15" fill="black" visibility="hidden"/>
+            <circle id="edgebg-3" cx="200"    cy="335.2"  r="15" fill="black" visibility="hidden"/>
+            <circle id="edgebg-4" cx="94.35"  cy="284.3"  r="15" fill="black" visibility="hidden"/>
+            <circle id="edgebg-5" cx="68.25"  cy="169.95" r="15" fill="black" visibility="hidden"/>
+            <circle id="edgebg-6" cx="141.35" cy="78.25"  r="15" fill="black" visibility="hidden"/>
+        </mask>
+    </defs>
+
     <!-- Edges -->
-    <line class="edge" data-id="0" x1="200" y1="50" x2="317.3" y2="106.5" stroke="black" stroke-width="2"/>
-    <line class="edge" data-id="1" x1="317.3" y1="106.5" x2="346.2" y2="233.4" stroke="black" stroke-width="2"/>
-    <line class="edge" data-id="2" x1="346.2" y1="233.4" x2="265.1" y2="335.2" stroke="black" stroke-width="2"/>
-    <line class="edge" data-id="3" x1="265.1" y1="335.2" x2="134.9" y2="335.2" stroke="black" stroke-width="2"/>
-    <line class="edge" data-id="4" x1="134.9" y1="335.2" x2="53.8" y2="233.4" stroke="black" stroke-width="2"/>
-    <line class="edge" data-id="5" x1="53.8" y1="233.4" x2="82.7" y2="106.5" stroke="black" stroke-width="2"/>
-    <line class="edge" data-id="6" x1="82.7" y1="106.5" x2="200" y2="50" stroke="black" stroke-width="2"/>
+    <line class="edge" data-id="0" x1="200" y1="50" x2="317.3" y2="106.5" stroke="black" stroke-width="2" mask="url(#edgemask)"/>
+    <line class="edge" data-id="1" x1="317.3" y1="106.5" x2="346.2" y2="233.4" stroke="black" stroke-width="2" mask="url(#edgemask)"/>
+    <line class="edge" data-id="2" x1="346.2" y1="233.4" x2="265.1" y2="335.2" stroke="black" stroke-width="2" mask="url(#edgemask)"/>
+    <line class="edge" data-id="3" x1="265.1" y1="335.2" x2="134.9" y2="335.2" stroke="black" stroke-width="2" mask="url(#edgemask)"/>
+    <line class="edge" data-id="4" x1="134.9" y1="335.2" x2="53.8" y2="233.4" stroke="black" stroke-width="2" mask="url(#edgemask)"/>
+    <line class="edge" data-id="5" x1="53.8" y1="233.4" x2="82.7" y2="106.5" stroke="black" stroke-width="2" mask="url(#edgemask)"/>
+    <line class="edge" data-id="6" x1="82.7" y1="106.5" x2="200" y2="50" stroke="black" stroke-width="2" mask="url(#edgemask)"/>
 
     <!-- Vertices -->
     <circle class="node" data-id="7" cx="200"   cy="50"    r="20" fill="#FFD278" stroke="orange" stroke-width="2"/>
@@ -24,25 +37,12 @@ permalink: /GraphTheory/
     <circle class="node" data-id="13" cx="82.7"  cy="106.5" r="20" fill="#FFD278" stroke="orange" stroke-width="2"/>
 
     <!-- Edge labels -->
-    <circle id="edgebg-0" cx="258.65" cy="78.25"  r="13" fill="white" visibility="hidden" pointer-events="none"/>
     <text id="edge-0" x="258.65" y="78.25"  text-anchor="middle" dominant-baseline="central" font-size="26" pointer-events="none"></text>
-
-    <circle id="edgebg-1" cx="331.75" cy="169.95" r="13" fill="white" visibility="hidden" pointer-events="none"/>
     <text id="edge-1" x="331.75" y="169.95" text-anchor="middle" dominant-baseline="central" font-size="26" pointer-events="none"></text>
-
-    <circle id="edgebg-2" cx="305.65" cy="284.3"  r="13" fill="white" visibility="hidden" pointer-events="none"/>
     <text id="edge-2" x="305.65" y="284.3"  text-anchor="middle" dominant-baseline="central" font-size="26" pointer-events="none"></text>
-
-    <circle id="edgebg-3" cx="200"    cy="335.2"  r="13" fill="white" visibility="hidden" pointer-events="none"/>
     <text id="edge-3" x="200"    y="335.2"  text-anchor="middle" dominant-baseline="central" font-size="26" pointer-events="none"></text>
-
-    <circle id="edgebg-4" cx="94.35"  cy="284.3"  r="13" fill="white" visibility="hidden" pointer-events="none"/>
     <text id="edge-4" x="94.35"  y="284.3"  text-anchor="middle" dominant-baseline="central" font-size="26" pointer-events="none"></text>
-
-    <circle id="edgebg-5" cx="68.25"  cy="169.95" r="13" fill="white" visibility="hidden" pointer-events="none"/>
     <text id="edge-5" x="68.25"  y="169.95" text-anchor="middle" dominant-baseline="central" font-size="26" pointer-events="none"></text>
-
-    <circle id="edgebg-6" cx="141.35" cy="78.25"  r="13" fill="white" visibility="hidden" pointer-events="none"/>
     <text id="edge-6" x="141.35" y="78.25"  text-anchor="middle" dominant-baseline="central" font-size="26" pointer-events="none"></text>
 
     <!-- Vertex Labels -->
@@ -60,6 +60,13 @@ permalink: /GraphTheory/
 
 <style>
   .node { cursor: pointer; }
+  .game {
+    text-align: center;
+  }
+  .game svg {
+    display: block;
+    margin: 0 auto;
+  }
 </style>
 
 <script>
@@ -111,6 +118,7 @@ permalink: /GraphTheory/
   document.querySelectorAll(".edge").forEach(line => {
     const hit = line.cloneNode();
     hit.removeAttribute("class");
+    hit.removeAttribute("mask");  
     hit.setAttribute("stroke", "transparent");
     hit.setAttribute("stroke-width", "24");
     hit.setAttribute("pointer-events", "stroke");
@@ -195,3 +203,4 @@ permalink: /GraphTheory/
 
   document.getElementById("checkBtn").addEventListener("click", checkSolution);
 </script>
+</div>
