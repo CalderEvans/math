@@ -4,14 +4,29 @@ title: Graceful Labeling Game
 permalink: /GraphTheory/GracefulLabeling
 ---
 
+<style>
+  .definition {
+    border: 1.5px solid #FF8000;
+    border-radius: 6px;
+    padding: 12px 18px;
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  .definition .label {
+    font-weight: bold;
+  }
+</style>
+
 <div style="margin-top: 30px;"></div>
-Definition: A $graceful$ $labeling$ is a labeling of a graph with $n$ edges in which:
+<div class="definition"
+<span class="label">Definition (Graceful labeling).</span> A $graceful$ $labeling$ is a labeling of a graph with $n$ edges in which:
 <ul>
   <li>the vertices are labeled with a subset of distinct integers from the set $\{0, 1, 2, \dots, n\}$,</li>
   <li>the edges are labeled with a subset of distinct integers from the set $ \{1, 2, \dots, n\} $</li>
   <li>each edge label is the absolute difference of its vertex endpoint labels,</li>
   <li>vertex and edge labelings are unique.</li>
 </ul>
+</div>
 
 <div class="game">
 <svg id="graph" viewBox="0 0 400 400" width="400" height="400">
