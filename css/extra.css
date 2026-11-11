@@ -121,11 +121,11 @@ body {
 .navbar,
 .navbar-default,
 .navbar-inverse {
-  background-color: #fac089 !important;
+  background-color: #FFD278 !important;
   background-image: none !important;
-  border-color: #fac089 !important;
+  border-color: #FFD278 !important;
 }
-
+/* #fac089 */
 /* Footer */
 footer,
 .footer {
