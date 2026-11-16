@@ -82,6 +82,21 @@ permalink: /GraphTheory/GracefulLabeling
 </style>
 
 <svg class="centered" viewBox="0 0 675 400" width="675" height="400" style="background-color:#FFF4DD; border-radius:16px">
+  <!-- Hide background of edge labels-->
+  <defs>
+    <mask id="mask" maskUnits="userSpaceOnUse" x="0" y="0" width="675" height="400">
+      <rect x="0" y="0" width="675" height="400" fill="white"/>
+      <circle cx="262.5" cy="125"   r="16" fill="black"/>
+      <circle cx="375" cy="125"   r="16" fill="black"/>
+      <circle cx="487.5" cy="125"   r="16" fill="black"/>
+      <circle cx="112.5" cy="275"   r="16" fill="black"/>
+      <circle cx="187.5" cy="275"   r="16" fill="black"/>
+      <circle cx="337.5" cy="275"   r="16" fill="black"/>
+      <circle cx="412.5" cy="275"   r="16" fill="black"/>
+      <circle cx="600" cy="275"   r="16" fill="black"/>
+    </mask>
+  </defs>
+
   <!-- Edges -->
   <line x1="375" y1="50" x2="150" y2="200" stroke="black" stroke-width="2" mask="url(#mask)"/>
   <line x1="375" y1="50" x2="375" y2="200" stroke="black" stroke-width="2" mask="url(#mask)"/>
